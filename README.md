@@ -86,7 +86,7 @@ If I had some extra hours to work on this project, I would focus on implementing
 
 ## Interview Recording URL Link
 
-[ ](https://www.loom.com/share/21fac8695e424113961d8078b2c2adcf?sharedAppSource=personal_library)
+[https://www.loom.com/share/21fac8695e424113961d8078b2c2adcf?sharedAppSource=personal_library]()
 
 
 
