@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![https://recordit.co/TKI9SDq52z](gif1-link-here)
+![<div style="width:100%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/KvMauwMwCQIPRBcO2B" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KvMauwMwCQIPRBcO2B">via GIPHY</a></p>](gif1-link-here)
 
 ![https://recordit.co/6WoXdMMbJC](gif2-link-here)
 
