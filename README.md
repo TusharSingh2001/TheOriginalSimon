@@ -41,9 +41,12 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 **Lose The Game**
+
 ![ ](https://media.giphy.com/media/h9rDrHo5FjmX83r4GL/giphy.gif)
 
-![https://recordit.co/6WoXdMMbJC](gif2-link-here)
+**Win The Game**
+
+![ ](https://media.giphy.com/media/vMN7DMRGs6zu2BTLQc/giphy.gif)
 
 
 ## Reflection Questions
