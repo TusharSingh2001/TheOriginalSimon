@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hello!</title>
+    
+    <link rel="stylesheet" href="/style.css">
+    
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>The Original Simon</h1>
+    
+    <p>
+      Welcome to the Light and Sound Game! Repeat back the pattern by pressing the button associated with the sound.
+      
+    </p>
+    
+    
+    <button id="startBtn" onclick="startGame()">Start</button>
+    <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
+    
+    
+    <div id="gameButtonArea" >
+      <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()"></button>
+      <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"></button>
+      <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"></button>
+      <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"></button>
+    </div>
+    
+    <audio src="https://cdn.glitch.com/f3da0b8c-8d28-49fa-8884-7b7302c7a4ff%2Fwaa.mp3?v=1616472362796" id="audio1"></audio>
+    <audio src="https://cdn.glitch.com/f3da0b8c-8d28-49fa-8884-7b7302c7a4ff%2Fwario.mp3?v=1616473936479" id="audio2"></audio>
+    <audio src="https://cdn.glitch.com/f3da0b8c-8d28-49fa-8884-7b7302c7a4ff%2Fdisc.mp3?v=1616474201743" id="audio3"></audio>
+    <audio src="https://cdn.glitch.com/f3da0b8c-8d28-49fa-8884-7b7302c7a4ff%2Fcar.mp3?v=1616472362651" id="audio4"></audio>
+    
+
+  </body>
+</html>
