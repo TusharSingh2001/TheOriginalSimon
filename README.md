@@ -6,7 +6,7 @@ Submitted by: **Tushar Singh**
 
 Time spent: **10** hours spent in total
 
-Link to project: (https://ethereal-happy-chungkingosaurus.glitch.me/)
+Link to project: (https://glitch.com/edit/#!/ethereal-happy-chungkingosaurus), (https://ethereal-happy-chungkingosaurus.glitch.me/)
 
 ## Required Functionality
 
