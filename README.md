@@ -40,7 +40,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![ ](https://media.giphy.com/media/KvMauwMwCQIPRBcO2B/giphy.gif)
+**Lose The Game**
+![ ](https://media.giphy.com/media/h0mFQfbVzHVvD5yKRz/giphy.gif)
 
 ![https://recordit.co/6WoXdMMbJC](gif2-link-here)
 
